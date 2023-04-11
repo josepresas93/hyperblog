@@ -4,7 +4,7 @@ body
     color: #333;
     text-align: center;
     font-family: Arial;
-    font-size: 16px;
+    font-size: 8px;
     margin: 0;
     padding: 0;
 }
@@ -15,6 +15,7 @@ body
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
+    font-size: 16px;
     margin: 0;
     padding: 0.5em;
 }
@@ -43,18 +44,19 @@ body
 
 #container h1
 {
-    font-size: 20px;
+    font-size: 10px;
 }
 #post
 {
     background: white;
     padding: 1em;
-    font-size: 40px;
+    font-size: 20px;
 }
 #footer
 {
     background-color: #333;
     color: #fff;
-    padding: 20px;
+    padding: 5  0px;
     text-align: center;
+    font-size: 20px;
 }
