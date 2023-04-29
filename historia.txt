@@ -8,4 +8,6 @@ Mañana hablaremos de su vida personal y labora.
 
 Master 1
 
+Master 2
+
 Haciendo practica de conectividad a GitHub pages 
