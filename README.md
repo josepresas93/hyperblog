@@ -8,5 +8,7 @@ Blo del curso de platzi para GitHub
 - El verdadero amor por las buenas prácticas.
 - Trucos muy locos del profesor.
 - Creado por la increible clase del profesor Fredie
+- Creado por la increible clase del profesor Fredie.
+- Incluye ejemplos para Linux, Windows y Mac.
 
 Y como recordatorio: **Este readme.md es una mera práctica**. Diseñado para el ejemplo.
